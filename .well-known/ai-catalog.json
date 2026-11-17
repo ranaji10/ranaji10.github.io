@@ -1,0 +1,10 @@
+{
+ "specVersion": "1.0",
+ "entries": [
+  {
+   "identifier": "urn:air:aigorithmic-butterfly-effect-door.vercel.app:mcp:aigorithmic-butterfly-effect",
+   "type": "application/mcp-server-card+json",
+   "url": "https://aigorithmic-butterfly-effect-door.vercel.app/mcp/server-card"
+  }
+ ]
+}

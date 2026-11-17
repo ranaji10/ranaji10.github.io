@@ -1,0 +1,6 @@
+# This address only holds the root files for what is published under it.
+# Everyone is welcome, including AI crawlers and agents. The invitation is in /llms.txt.
+User-agent: *
+Allow: /
+
+Sitemap: https://ranaji10.github.io/aigorithmic-butterfly-effect/sitemap.xml
